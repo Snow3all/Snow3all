@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snow (Snow3all that my aka)</h1>
 <h3 align="center">FullStack Developer from Thailand.</h3>
 
-<img src='https://www.i-pic.info/i/LFfm438444.png' alt='Snow3all'>
+<img src='https://snow3all.s3.ap-southeast-1.amazonaws.com/Mr(1).png' alt='Snow3all'>
 
 - 🔭 I’m currently working on **Freelance**
 
