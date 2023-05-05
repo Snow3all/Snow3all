@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snow (Snow3all that my aka)</h1>
 <h3 align="center">FullStack Developer from Thailand.</h3>
 
-<p align="left"> <img src="https://www.picz.in.th/image/Mr%281%29.yu7keV" alt="snow3all" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snow3all" alt="snow3all" /></a> </p>
+<p align="left"> <img src="[https://www.picz.in.th/image/Mr%281%29.yu7keV](https://sv1.picz.in.th/images/2023/05/05/yu7keV.png)" alt="snow3all" /> </p>
 
 - 🔭 I’m currently working on **Freelance**
 
